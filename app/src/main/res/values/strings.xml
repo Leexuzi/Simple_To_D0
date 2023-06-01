@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Simple To Do</string>
+    <string name="addBtnTxt">ADD</string>
+    <string name="deleteBtnTxt">DELETE</string>
+    <string name="clearBtnTxt">CLEAR</string>
+    <string-array name="unnecessary">
+        <item>Add a new task</item>
+        <item>Remove a task</item>
+    </string-array>
+    <string name="message">Something went wrong, but I don\'t know why¯\\_(ツ)_/¯</string>
+</resources>
